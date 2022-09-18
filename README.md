@@ -1,0 +1,2 @@
+# Blood-bank
+The BLOOD BANK MANAGEMENT SYSTEM  is great project. this project is designed for successful completion of project on blood bank management system. the basic building aim is to provide blood donation service to the city recently. Blood Bank Management System (BDMS) is a browser based system that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management within a blood bank.
